@@ -1,0 +1,7 @@
+# Label map
+id2label = {
+    "0": "art_painting",
+    "1": "cartoon",
+    "2": "photo",
+    "3": "sketch"
+}
